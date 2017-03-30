@@ -1,0 +1,11 @@
+{
+  "name": "safeframe-reference",
+  "version": "0.2.0",
+  "description": " SafeFrames Reference Implementation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlkalberer/safeframe"
+  },
+  "license": "BSD"
+}
